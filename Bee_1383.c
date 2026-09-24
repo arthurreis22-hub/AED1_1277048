@@ -1,3 +1,14 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : <<<Arthur Reis Martins>>>
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/<<1080>>
+Data        : 21/09/2026
+Objetivo    : Ler uma quantidade n de matrizes 9x9 e verificar se elas sao ou não solucao de Sudoku.
+Dificuldade : <<<Vetor verifica[10] foi oq tive mais dificuldade, assim como a verificacao das matrizes 3x3>>>
+Uso de IA   : <<<Compreender melhor o funcionamento do vetor verifica e como realizar a verificacao das matrizes 3x3 sem ter que fazer varios for para cada>>>
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 
 int main(){
