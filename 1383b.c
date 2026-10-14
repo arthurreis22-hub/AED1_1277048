@@ -4,7 +4,7 @@ Nome        : <<<Arthur Reis Martins>>>
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/<<1080>>
 Data        : 22/09/2026
-Objetivo    : Ler uma quantidade n de matrizes 9x9 e verificar se elas sao ou n„o solucao de Sudoku, utilizando malloc.
+Objetivo    : Ler uma quantidade n de matrizes 9x9 e verificar se elas sao ou n√£o solucao de Sudoku, utilizando malloc.
 Dificuldade : <<<Vetor verifica[10] foi oq tive mais dificuldade, assim como a verificacao das matrizes 3x3>>>
 Uso de IA   : <<<Compreender melhor o funcionamento do vetor verifica e como realizar a verificacao das matrizes 3x3 sem ter que fazer varios for para cada>>>
 -------------------------------------------------------------------------- */
