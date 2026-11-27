@@ -2,7 +2,7 @@
 Disciplina  : Algortimo e Estrutura de Dados 2026S1
 Nome        : <<<Arthur Reis Martins>>>
 Linguagem   : C
-Problema    : https://judge.beecrowd.com/pt/problems/view/<<1080>>
+Problema    : https://judge.beecrowd.com/pt/problems/view/<<1383>>
 Data        : 22/09/2026
 Objetivo    : Ler uma quantidade n de matrizes 9x9 e verificar se elas sao ou não solucao de Sudoku, utilizando malloc.
 Dificuldade : <<<Vetor verifica[10] foi oq tive mais dificuldade, assim como a verificacao das matrizes 3x3>>>
